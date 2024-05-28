@@ -1,0 +1,1 @@
+npm install react-router-dom jwt-decode @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons bootstrap
